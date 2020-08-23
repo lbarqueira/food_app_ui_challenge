@@ -10,8 +10,8 @@ class UserIcon extends StatelessWidget {
         children:[
           Padding(
             padding: const EdgeInsets.only(
-              top: 12.0,
-              right: 12.0,
+              top: 14.0,
+              right: 14.0,
             ),
             child: ClipRRect(
               borderRadius: BorderRadius.all(
@@ -23,16 +23,16 @@ class UserIcon extends StatelessWidget {
             ),
           ),
           Positioned(
-            right: 0.0,
-            top: 0.0,
+            right: 0.1,
+            top: 0.1,
             child: Container(
               decoration: BoxDecoration(
 
                 shape: BoxShape.circle,
-                color: Theme.of(context).backgroundColor, // FIXME: erro está aqui
+                color: Theme.of(context).accentColor,
               ),
-              width: 15.0,
-              height: 15.0,
+              width: 12.0,
+              height: 12.0,
             ),
           )
         ],
