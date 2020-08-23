@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         elevation: 0.0,
         actions: [
-          UserIcon(), // should receive a color compatible with background
+          UserIcon(), // a small circle appears on the top right 
         ],
       ),
       body: ListView(
