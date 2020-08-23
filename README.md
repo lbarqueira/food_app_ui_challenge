@@ -1,6 +1,10 @@
 # food_app_ui_challenge
 
-A new Flutter project.
+"From design to Flutter: A Design Challenge"- Presentation from Gonçalo Palma
+da Flutter Portugal.I have the presentation on .ppt delivered by him.
+This presentation occured on 23th of May 2020 - https://www.youtube.com/watch?v=_XvWpzf7_f0
+The github for code is: https://github.com/Vanethos/food-app-ui-challenge
+
 
 ## Getting Started
 
